@@ -1,1 +1,6 @@
-# -Info2180-lab1
+# \# Info2180 Lab1
+
+This is Lab 1 for Brittany Richards 
+
+
+
